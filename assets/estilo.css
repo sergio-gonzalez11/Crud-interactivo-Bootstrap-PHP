@@ -1,0 +1,28 @@
+
+div .formu{
+
+    background: #00F260; 
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  
+    background: linear-gradient(to right, #0575E6, #00F260);    
+    border-radius: 5%;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.jumbotron{
+
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+}
+
+table.table td a.edit {
+    color: #FFC107;
+}
+table.table td a.delete {
+    color: #E34724;
+}
+
+i:hover{
+
+    cursor: pointer;
+    
+}
